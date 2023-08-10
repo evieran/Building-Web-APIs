@@ -13,8 +13,8 @@ A static class that seeds initial data for Category and Product entities.
 ## Program Configuration
 Configures the main setup and HTTP request pipeline, including Swagger for API documentation, HTTPS redirection, authorization, and controller mapping.
 
-# Educational Purpose
+## Educational Purpose
 This project is entirely for educational purposes, providing a practical example of ASP.NET Core development and best practices in code organization and application design.
 
-# Further Details
+## Further Details
 Swagger Configuration Guide
